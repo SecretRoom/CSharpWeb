@@ -1,0 +1,4 @@
+{
+  "appService.defaultWebAppToDeploy": "/subscriptions/615d4b5f-c6f7-4e3a-aaec-b3ebeaa54181/resourceGroups/appsvc_windows_centralus/providers/Microsoft.Web/sites/CSharpLab2",
+  "appService.deploySubpath": "publish"
+}
